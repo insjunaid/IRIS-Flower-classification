@@ -9,7 +9,7 @@ Here's an `README.md` for your Iris dataset prediction project:
 This project is a web-based application that predicts the species of an Iris flower based on user input. It uses a pre-trained model to make predictions. The application is built using Flask, a lightweight web framework for Python.
 
 ### Supervised by
-Dr. Agughasi Victor Ikechukwu,  
+Dr. Agughasi Victor Ikechukwu,(https://github.com/Victor-Ikechukwu) 
 (Assistant Professor)  
 Department of CSE(AI), MIT Mysore
 
