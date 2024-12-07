@@ -1,6 +1,6 @@
 # IRIS-classification
 
-MACHINE LEARNING MODEL FOR IRIS DATASET (https://www.kaggle.com/code/sxsntd/iris-dataset).
+MACHINE LEARNING MODEL FOR IRIS DATASET 
 # Iris Flower Prediction System
 
 ## Overview
